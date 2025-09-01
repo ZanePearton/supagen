@@ -12,7 +12,7 @@ SuperGen is a machine learning-powered web application that generates memorable,
 <img width="1462" height="798" alt="Screenshot 2025-09-01 at 1 03 18 pm" src="https://github.com/user-attachments/assets/3f8eb791-6e94-41a0-8880-f79976dfc721" />
 
 ### Dashboard
-<img width="1467" height="786" alt="dashboard" src="https://github.com/user-attachments/assets/63ee147d-b0ab-4d4e-bbbe-6da6c73bba80" />
+<img width="1706" height="970" alt="Screenshot 2025-08-12 at 4 54 39 pm" src="https://github.com/user-attachments/assets/729deab3-6a64-4423-bd8b-91d88dee3f72" />
 
 ## Features
 
